@@ -1,4 +1,4 @@
-import ProfilePic from '../assets/profile-pic.jpg';
+import ProfilePic from '../assets/profile-img-2.jpg';
 
 const RESUME_URL = '/Renata-Maliyetu-Resume.pdf';
 
