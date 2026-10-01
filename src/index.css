@@ -262,3 +262,56 @@ a:focus-visible {
 .skills dd {
   margin: 0;
 }
+
+/* Experience */
+.job-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.job {
+  padding: 1.25rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+
+.job:first-child {
+  padding-top: 0.5rem;
+}
+
+.job:last-child {
+  border-bottom: none;
+}
+
+.job-title {
+  font-size: 1.1rem;
+  margin: 0 0 0.25rem;
+}
+
+.section .job-meta {
+  margin: 0 0 0.6rem;
+  font-size: 0.85rem;
+  font-style: italic;
+}
+
+.job-points {
+  margin: 0;
+  padding-left: 1.25rem;
+  line-height: 1.7;
+  color: var(--ink-soft);
+}
+
+/* Education */
+.section .edu-honors {
+  margin: 0 0 0.4rem;
+}
+
+.section .coursework {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.coursework strong {
+  color: var(--ink);
+}

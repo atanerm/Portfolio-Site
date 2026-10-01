@@ -1,5 +1,4 @@
-// Optional: link to your Credly / CompTIA verification page.
-const CERT_VERIFY_URL = '';
+const CERT_VERIFY_URL = 'https://www.credly.com/badges/9557c5b2-3276-43eb-a3f5-c51495722dfc/linked_in_profile';
 
 function About() {
   return (

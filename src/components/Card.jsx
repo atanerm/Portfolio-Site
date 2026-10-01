@@ -1,5 +1,7 @@
 import ProfilePic from '../assets/profile-pic.jpg';
 
+const RESUME_URL = '/Renata-Maliyetu-Resume.pdf';
+
 function Card() {
   return (
     <div className="card">
@@ -18,11 +20,14 @@ function Card() {
 
       <div className="cta-buttons">
         <a href="#about" className="btn btn-primary">About Me</a>
-        <a href="#projects" className="btn btn-secondary">View My Work</a>
+        <a href="#projects" className="btn btn-secondary">Projects</a>
+         <a href="#experience" className="btn btn-secondary">Experience</a>
+        <a href={RESUME_URL} target="_blank" rel="noreferrer" className="btn btn-secondary">Résumé</a>
       </div>
 
       <div className="social-links">
         <a href="https://www.linkedin.com/in/renata-maliyetu" target="_blank" rel="noreferrer">LinkedIn</a>
+        <a href="https://github.com/atanerm" target="_blank" rel="noreferrer">GitHub</a>
         <a href="mailto:maliyeturenata@gmail.com">Email</a>
       </div>
     </div>

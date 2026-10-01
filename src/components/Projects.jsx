@@ -1,5 +1,3 @@
-// `href` is optional. The "View project" link only shows when you add one
-// (for example, your GitHub repo for this project).
 const projects = [
   {
     title: 'Vending Machine Inventory System',
@@ -8,6 +6,16 @@ const projects = [
     tags: ['React', 'PostgreSQL', 'Jira'],
     href: '',
   },
+
+  {
+    title: 'Personal Portfolio Website',
+    description:
+      'Built a responsive single-page portfolio with React and Vite, deployed on Vercel with a custom domain and automatic redeploys from GitHub.',
+    tags: ['React', 'Vite', 'Vercel'],
+    href: '',
+  },
+
+  
 ];
 
 function Projects() {
@@ -28,9 +36,6 @@ function Projects() {
           </li>
         ))}
       </ul>
-      <p className="contact-line">
-        Want to work together? <a href="mailto:maliyeturenata@gmail.com">Email me</a>.
-      </p>
     </section>
   );
 }
