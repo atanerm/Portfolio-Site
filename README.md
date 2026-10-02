@@ -1,16 +1,33 @@
-# React + Vite
+# Renata Maliyetu | Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Personal portfolio site for Renata Maliyetu, a Computer Science graduate with a CompTIA Security+ certification, focused on software development and system defense.
 
-Currently, two official plugins are available:
+**Live site:** [renatamaliyetu.com](https://renatamaliyetu.com)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## What's on the site
 
-## React Compiler
+- **Hero card** with a short intro, links to the page sections, a résumé button, and LinkedIn and email links
+- **About** with a short bio, skills, and certification
+- **Education** with degrees, honors, and relevant coursework
+- **Projects** with project write-ups
+- **Experience** with work history
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Built with
 
-## Expanding the Oxlint configuration
+- [React](https://react.dev/) for the interface
+- [Vite](https://vite.dev/) for development and builds
+- Plain CSS (one stylesheet, with CSS variables for colors and fonts)
+- [Vercel](https://vercel.com/) for hosting, with automatic deploys from GitHub
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Design and accessibility notes
+
+- Responsive layout that works on phones and desktops
+- Semantic HTML with a single `<h1>` and clear section headings
+- Visible keyboard focus styles on links
+- Smooth scrolling that turns off for visitors who prefer reduced motion
+- Page title, description, and social preview tags in `index.html`
+
+## Contact
+
+- Email: [maliyeturenata@gmail.com](mailto:maliyeturenata@gmail.com)
+- LinkedIn: [linkedin.com/in/renata-maliyetu](https://www.linkedin.com/in/renata-maliyetu)
