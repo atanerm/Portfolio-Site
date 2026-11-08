@@ -5,19 +5,21 @@ function About() {
     <section id="about" className="section">
       <h2 className="section-title">About me</h2>
       <p>
-        I graduated from UMBC in May 2026 with a B.S. in Computer Science
-        (magna cum laude). I like finding the root cause of a problem, fixing
-        it, and explaining the fix clearly to whoever needs to understand it.
+        I graduated from the University of Maryland, Baltimore County (UMBC) in May 2026 
+        with a B.S. in Computer Science, graduating magna cum laude. I enjoy solving 
+        technical problems, identifying root causes, and developing practical solutions
+         that improve processes and system reliability.
       </p>
       <p>
-        As a teaching assistant in UMBC's Computer Science department, I helped
-        students debug C++ programs and fix development environment issues, and
-        I advised them on Git and structured problem-solving. For a software
-        engineering course, I built a full-stack inventory system with React
-        and PostgreSQL.
+        My experience spans software development, data management, and information systems. 
+        In a software engineering course, I developed a full-stack inventory management system 
+        using React and PostgreSQL. My professional experience also includes database maintenance,
+        data validation, reporting, and geospatial data management using ArcGIS and Microsoft Excel.
       </p>
       <p>
-        I'm available for full-time work now and willing to relocate.
+        My technical interests include software engineering, systems development, database management, 
+        and technology-driven problem-solving. I enjoy learning new technologies, building practical solutions, 
+        and finding ways to use technology to improve processes and solve complex problems.
       </p>
 
       <dl className="skills">

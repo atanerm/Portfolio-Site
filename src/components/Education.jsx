@@ -17,7 +17,6 @@ const schools = [
   },
 ];
 
-// Reuses the .job-* styles from Experience so both sections match.
 function Education() {
   return (
     <section id="education" className="section">

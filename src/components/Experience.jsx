@@ -1,21 +1,23 @@
 const jobs = [
-  {
-    role: 'Teaching Assistant, Computer Science Department',
-    org: 'UMBC',
-    dates: 'Aug 2025 – Dec 2025',
-    points: [
-      'Gave one-on-one and group support to students troubleshooting C++ programs, debugging errors, and fixing development environment issues.',
-      'Diagnosed root causes of coding and logic errors and walked students through fixes step by step in clear, non-technical terms.',
-      'Advised students on version control (Git), coding best practices, and structured problem-solving.',
-    ],
-  },
+ {
+  role: 'LCRR Staff Support, Data Specialist',
+  org: 'WebHawkx | Baltimore County DPWT',
+  dates: 'Nov 2026 – Present',
+  points: [
+    'Coordinate information requests and maintain organized records by retrieving, documenting, and distributing relevant data to support departmental operations.',
+    'Manage and maintain structured datasets, databases, and digital records through data entry, updates, and information processing while ensuring data accuracy and integrity.',
+    'Utilize Hazen ArcGIS to navigate, review, edit, and validate geospatial datasets, including spatial features and associated attribute information, identifying and correcting data discrepancies.',
+    'Leverage Microsoft Excel and data management tools to organize, track, compile, and analyze information, generate reports, and fulfill data requests.',
+  ],
+},
   {
     role: 'Warehouse Associate',
     org: 'Amazon',
     dates: 'Apr 2023 – Jul 2025',
     points: [
-      'Used computerized tracking systems, barcode scanners, and handheld printers to keep inventory data accurate in a high-volume operation.',
-      'Found fulfillment discrepancies through root-cause analysis and recommended process improvements to supervisors.',
+      'Operated handheld barcode scanners and warehouse technology to scan, track, and sort packages according to designated routes and destinations.',
+      'Processed and handled high volumes of packages while maintaining sorting accuracy, workflow efficiency, and established safety standards.',
+      'Identified package labeling, routing, and scanning discrepancies and assisted with resolving processing issues to maintain accurate shipment flow.',
     ],
   },
   {
@@ -23,8 +25,9 @@ const jobs = [
     org: 'Chesapeake Gateway Chamber of Commerce',
     dates: 'Jun 2022 – Aug 2023',
     points: [
-      'Analyzed marketing campaign performance data and summarized findings in written and oral reports for leadership.',
-      'Produced video and graphic assets with Adobe Creative Suite and coordinated schedules and resources across multiple events.',
+      'Assisted with front-office operations, including greeting visitors, responding to inquiries, and directing individuals to appropriate staff or resources.',
+      'Managed incoming communications, organized documentation, and supported scheduling and appointment coordination.',
+      'Provided administrative support for daily office operations, maintaining records, coordinating meetings, and assisting with event preparation.',
     ],
   },
 ];

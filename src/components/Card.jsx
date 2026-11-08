@@ -11,7 +11,7 @@ function Card() {
         alt="Portrait of Renata Maliyetu"
       />
       <h1 className="card-title">Renata Maliyetu</h1>
-      <h2 className="card-subtitle">Software &amp; Security | CS Graduate</h2>
+      <h2 className="card-subtitle">Technology | CS Graduate</h2>
       <p className="card-description">
         Computer Science graduate with a CompTIA Security+ certification.
         Passionate about software development, system defense, and building
